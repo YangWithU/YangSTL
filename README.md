@@ -11,5 +11,5 @@ Wish me all the best!
 
 | Project | brief | Percentage(estimated) |
 | ------- | ----- | -------------------  |
-| `smart_ptr` | smart pointer written by myself | $ 30\% $ |
-| `allocator` | allocator for containers in STL | $ 10\% $ |
+| `smart_ptr` | smart pointers written by myself | 30% |
+| `allocator` | allocators for containers in STL | 10% |
